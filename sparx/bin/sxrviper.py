@@ -13,6 +13,7 @@ from multi_shc import find_common_subset, do_volume, multi_shc
 import string
 import os, sys
 #from debug_mpi import mpi_barrier, mpi_bcast 
+#from debug_mpi import mpi_barrier, mpi_bcast 
 
 
 MAXIMUM_NO_OF_VIPER_RUNS_ANALYZED_TOGETHER = 10
